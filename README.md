@@ -5,3 +5,7 @@ Visualizacion de la DAPP:
 
 https://hbmx-6ffe1.firebaseapp.com
 https://blocks.gq
+
+Framework IONIC
+
+install npm -i
